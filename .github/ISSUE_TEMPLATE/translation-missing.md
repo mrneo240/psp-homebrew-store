@@ -17,6 +17,7 @@ Add any other context or screenshots about the feature request here.
 If unsure where a particular string is used, either browse the store: [PSP Homebrew Store](https://psp-dev.org/hb/) or ask here for clarification.
 
 Original English Translation:
+**Please edit and replace with your translation**
 ```ini
 ; Base template file, Also sets default fallbacks
 MSG_PSP_WELCOME = Welcome to %s!
@@ -48,7 +49,7 @@ MSG_SIZE_NOTICE_PHAT = Installer may fail on PSP 1000 aka Phat
 MSG_SIZE_NOTICE_SLIM = Installer may fail on all PSP models!
 
 MSG_DOWNLOAD = Download!
-MSG_FURTHER_INFO = Further Information (Only for Desktop Browsers)
+MSG_FURTHER_INFO = Further Information (Desktop Only)
 MSG_REVIEWS = Reviews
 MSG_ON = on
 
